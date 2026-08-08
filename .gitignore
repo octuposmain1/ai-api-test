@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+.venv/
+venv/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask / Local Database / Instance
+instance/
+*.sqlite
+*.db
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
